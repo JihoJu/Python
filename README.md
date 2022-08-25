@@ -6,5 +6,5 @@ For Python Programming
 - [List Comprehension](https://github.com/JihoJu/Python/blob/main/Comprehension/List_Comprehension.ipynb)
 - [Generator](https://github.com/JihoJu/Python/blob/main/Comprehension/Generator.ipynb)
 - OOP
-- Multi-Processing
-- Multi-Threading
+- **Concurrency & Parallelism in Python**
+  - [Performance Comparison of Using Python Multi-threading and Multi-Processing](https://github.com/JihoJu/Python/blob/main/Multi_P_T/Multi-Threading%20%26%20Multi-Processing%20in%20Python.ipynb)
