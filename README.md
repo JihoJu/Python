@@ -2,6 +2,7 @@
 For Python Programming
 
 ## 주제
+- [부동소수점 정밀도 처리 방법](https://github.com/JihoJu/Python/blob/main/Memory_Management/%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90.ipynb)
 - [메모리 관리](https://github.com/JihoJu/Python/blob/main/Memory_Management/Memory_Management.ipynb)
 - [List Comprehension](https://github.com/JihoJu/Python/blob/main/Comprehension/List_Comprehension.ipynb)
 - [Generator](https://github.com/JihoJu/Python/blob/main/Comprehension/Generator.ipynb)
